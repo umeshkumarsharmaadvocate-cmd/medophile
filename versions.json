@@ -1,0 +1,9 @@
+{
+  "app": "MEDOPHILE",
+  "tagline": "The love for medicine",
+  "latestVersion": "v1.0.0-beta",
+  "channel": "Beta",
+  "enforceFlagSecure": true,
+  "webAppUrl": "https://YOUR-DOMAIN.pages.dev/index.html",
+  "apkDownloadUrl": "https://github.com/YOUR-ORG/medophile/releases/latest/download/medophile-tablet.apk"
+}
