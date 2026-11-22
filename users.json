@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2026-11-22T12:00:00Z",
+  "serverMode": "github-pages-static-or-rest",
+  "users": [
+    {
+      "doctorId": "MED-2026-001",
+      "fullName": "Dr. Admin Lead",
+      "role": "Faculty / Admin",
+      "institution": "MEDOPHILE Clinical Network",
+      "regNo": "NMC-2026-0001",
+      "username": "dr.admin",
+      "passwordHash": "905dab46a9f982777dda04c1ceeb13b41c5b7f5accdf1bd436b3ba83535550d5",
+      "status": "active",
+      "createdAt": "2026-11-22T12:00:00Z"
+    }
+  ]
+}

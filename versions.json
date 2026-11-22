@@ -1,9 +1,26 @@
 {
-  "app": "MEDOPHILE",
+  "appName": "MEDOPHILE",
   "tagline": "The love for medicine",
-  "latestVersion": "v1.0.0-beta",
-  "channel": "Beta",
-  "enforceFlagSecure": true,
-  "webAppUrl": "https://YOUR-DOMAIN.pages.dev/index.html",
-  "apkDownloadUrl": "https://github.com/YOUR-ORG/medophile/releases/latest/download/medophile-tablet.apk"
+  "activeWebVersion": "2.0.0-beta",
+  "activeApkVersion": "2.0.0-beta",
+  "flagSecureRequired": true,
+  "updatedAt": "2026-11-22T12:00:00Z",
+  "releases": [
+    {
+      "version": "2.0.0-beta",
+      "type": "APK + Web OTA",
+      "date": "2026-11-22",
+      "active": true,
+      "apkUrl": "https://github.com/umeshkumarsharmaadvocate-cmd/medophileapk/actions",
+      "notes": "Marrow bluish-green sharp UI, fixed Android back & uninterrupted typing, online server auth, offline De-ID vault + Patient Folders, Follow-Up & Combo sheets, line-specific drawers, active guideline adaptation, bold expandable grid sketch, auto eye-stripe photo & consent video recorder, Doctor Handwritten export, custom APK icon."
+    },
+    {
+      "version": "1.0.0-beta",
+      "type": "APK + Web OTA",
+      "date": "2026-11-22",
+      "active": false,
+      "apkUrl": "",
+      "notes": "Initial hybrid beta with 327 templates, 3.5s launch promo, FLAG_SECURE."
+    }
+  ]
 }
